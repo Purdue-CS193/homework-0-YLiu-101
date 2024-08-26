@@ -3,6 +3,7 @@ Some interesting things/goals I have for the semester:
  - Learning music (think: guitar, music theory, EDM type stuff)
  - Become a more self-actualized version of myself - pursuing things that I'm passionate about and doing them well
  - Building a stronger body and mind through daily reflection, meditation, and having a consistent workout routine
+ - Finding/meeting awesome people and building awesome things
  - Practicing detachment
 ## Welcome to GitHub Pages
 
