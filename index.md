@@ -4,7 +4,6 @@ Some interesting things/goals I have for the semester:
  - Become a more self-actualized version of myself - pursuing things that I'm passionate about and doing them well
  - Building a stronger body and mind through daily reflection, meditation, and having a consistent workout routine
  - Finding/meeting awesome people and building awesome things
- - Practicing detachment
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
