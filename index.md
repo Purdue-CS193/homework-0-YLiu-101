@@ -1,4 +1,4 @@
-# Kai's awesome Webpage
+# Kai's First CS193 Homework
 Some interesting things/goals I have for the semester:
  - Learning music (think: guitar, music theory, EDM type stuff)
  - Become a more self-actualized version of myself - pursuing things that I'm passionate about and doing them well
